@@ -1,0 +1,10 @@
+name = "KmeansAlgorithmTask"
+uuid = "982d6632-4097-5d63-8384-f12ef8fe9172"
+authors = ["Jesus Alba <jesus.alba9504@gmail.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
